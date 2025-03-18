@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "KalkulatorCen/1.0.0": {
+        "runtime": {
+          "KalkulatorCen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KalkulatorCen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
