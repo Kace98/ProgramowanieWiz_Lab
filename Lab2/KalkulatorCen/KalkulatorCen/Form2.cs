@@ -81,7 +81,7 @@ namespace KalkulatorCen
                 }
                 
                 // Aktualizacja etykiety z informacją o wyborze
-                label_ProcWyb.Text = wybranyProcesor;
+                label_ProcWyb.Text = cenaProcesora.ToString();
                 AktualizujSumeCen();
             }
         }
@@ -96,7 +96,7 @@ namespace KalkulatorCen
             if (radioButton1.Checked)
             {
                 cenaDysku = 200;
-                label_DyskWyb.Text = radioButton1.Text;
+                label_DyskWyb.Text = cenaDysku.ToString();
                 AktualizujSumeCen();
             }
         }
@@ -106,7 +106,7 @@ namespace KalkulatorCen
             if (radioButton2.Checked)
             {
                 cenaDysku = 350;
-                label_DyskWyb.Text = radioButton2.Text;
+                label_DyskWyb.Text = cenaDysku.ToString();
                 AktualizujSumeCen();
             }
         }
@@ -116,7 +116,7 @@ namespace KalkulatorCen
             if (radioButton3.Checked)
             {
                 cenaDysku = 600;
-                label_DyskWyb.Text = radioButton3.Text;
+                label_DyskWyb.Text = cenaDysku.ToString();
                 AktualizujSumeCen();
             }
         }

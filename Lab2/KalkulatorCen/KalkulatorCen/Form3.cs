@@ -44,9 +44,8 @@ namespace KalkulatorCen
         {
             if (listView1.SelectedItems.Count > 0)
             {
-                string wybranyMonitor = listView1.SelectedItems[0].SubItems[0].Text;
                 cenaMonitora = decimal.Parse(listView1.SelectedItems[0].SubItems[1].Text);
-                label3.Text = wybranyMonitor;
+                label3.Text = cenaMonitora.ToString();
             }
         }
 
