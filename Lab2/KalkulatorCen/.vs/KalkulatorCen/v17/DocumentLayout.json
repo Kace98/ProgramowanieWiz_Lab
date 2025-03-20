@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|c:\\users\\gkacp\\desktop\\studia\\programowanie wizualne\\programowaniewiz_lab\\lab2\\kalkulatorcen\\kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|solutionrelative:kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|c:\\users\\gkacp\\desktop\\studia\\programowanie wizualne\\programowaniewiz_lab\\lab2\\kalkulatorcen\\kalkulatorcen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|solutionrelative:kalkulatorcen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|solutionrelative:kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|c:\\users\\gkacp\\desktop\\studia\\programowanie wizualne\\programowaniewiz_lab\\lab2\\kalkulatorcen\\kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54AD8C9-F836-493A-8E59-16ACBE92B191}|KalkulatorCen\\KalkulatorCen.csproj|solutionrelative:kalkulatorcen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form1.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form1.cs",
@@ -54,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form1.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form1.cs",
@@ -67,30 +79,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.cs [Projekt]",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form2.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form2.cs",
-              "ToolTip": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form2.cs [Projekt]",
-              "RelativeToolTip": "KalkulatorCen\\Form2.cs [Projekt]",
+              "ToolTip": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form2.cs [Design]",
+              "RelativeToolTip": "KalkulatorCen\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:29:51.674Z"
+              "WhenOpened": "2025-03-16T15:29:51.674Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form2.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form2.cs",
               "ToolTip": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form2.cs",
               "RelativeToolTip": "KalkulatorCen\\Form2.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowEEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:44:15.943Z"
+              "WhenOpened": "2025-03-16T15:44:15.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form3.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form3.cs",
@@ -101,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\gkacp\\Desktop\\Studia\\Programowanie wizualne\\ProgramowanieWiz_Lab\\Lab2\\KalkulatorCen\\KalkulatorCen\\Form3.cs",
               "RelativeDocumentMoniker": "KalkulatorCen\\Form3.cs",

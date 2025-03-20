@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KalkulatorCen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45a7a0f7710cb5ccc6cfdb847322951765d0ea2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ac9bcf28d707642ae5f0972f8601779360cebfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("KalkulatorCen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KalkulatorCen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
